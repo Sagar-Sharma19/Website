@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lag="en">
+<head>
+      <meta charset="UTF-8">
+      <title> MY SCHOOL</title>
+<link href="style.css" rel="stylesheet"   type="text/css">
+</head>
+<body>
+     <ul class="menu">
+              <li> <a href="#">Home</a></li>
+              <li> <a href="#">Courses</a></li>
+              <li> <a href="#">Why choose us</a></li>
+              <li> <a href="#">About us</a></li>
+              <li> <a href="#">Contact us</a></li>
+      </ul>
+</body>
+</html>
